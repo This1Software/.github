@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8481e308-5f58-4dca-b34e-ef042d5d2348" alt="This1Software Logo" width="200"/>
+</p>
+
 # This1Software
 
 <p align="center">
@@ -24,6 +28,7 @@ Here's a look at the platforms we've built and are actively developing:
 > Simple, fast, and secure file sharing.
 
 **This1File** is a user-friendly web platform designed to make sharing files effortless. Send large files to anyone, anywhere, for free. Our freemium model offers generous free-tier capabilities with optional premium features for power users and businesses.
+![logo](https://github.com/user-attachments/assets/753ec073-31d0-481d-9f6e-06e0838196cd)
 
 -   **🌐 Platform:** Web
 -   **🔗 Website:** [`this1file.com`](https://this1file.com)
